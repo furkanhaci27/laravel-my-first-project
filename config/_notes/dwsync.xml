@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="app.php" server="furkan.com" local="132809310546662020" remote="132797244000000000" Dst="0" />
+<file name="auth.php" server="furkan.com" local="132809310546751955" remote="132797244000000000" Dst="0" />
+<file name="broadcasting.php" server="furkan.com" local="132809310547176697" remote="132797244000000000" Dst="0" />
+<file name="cache.php" server="furkan.com" local="132809310547396593" remote="132797244000000000" Dst="0" />
+<file name="cors.php" server="furkan.com" local="132809310547800200" remote="132797244000000000" Dst="0" />
+<file name="database.php" server="furkan.com" local="132809310547920128" remote="132797244000000000" Dst="0" />
+<file name="filesystems.php" server="furkan.com" local="132809310548265110" remote="132797244000000000" Dst="0" />
+<file name="hashing.php" server="furkan.com" local="132809310548454992" remote="132797244000000000" Dst="0" />
+<file name="mail.php" server="furkan.com" local="132809310548878961" remote="132797244000000000" Dst="0" />
+<file name="queue.php" server="furkan.com" local="132809310550985347" remote="132797244000000000" Dst="0" />
+<file name="view.php" server="furkan.com" local="132809310551065302" remote="132797244000000000" Dst="0" />
+<file name="logging.php" server="furkan.com" local="132809310551165243" remote="132797244000000000" Dst="0" />
+<file name="services.php" server="furkan.com" local="132809310551425091" remote="132797244000000000" Dst="0" />
+<file name="session.php" server="furkan.com" local="132809310551445072" remote="132797244000000000" Dst="0" />
+<file name="sanctum.php" server="furkan.com" local="132809310551584991" remote="132797244000000000" Dst="0" />
+</dwsync>

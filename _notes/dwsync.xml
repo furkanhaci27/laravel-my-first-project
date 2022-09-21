@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".editorconfig" server="furkan.com" local="132809310532124568" remote="132797244000000000" Dst="0" />
+<file name=".env" server="furkan.com" local="132809310532134572" remote="132803950200000000" Dst="0" />
+<file name=".env.example" server="furkan.com" local="132809310532578111" remote="132797244000000000" Dst="0" />
+<file name=".gitattributes" server="furkan.com" local="132809310532618099" remote="132797244000000000" Dst="0" />
+<file name=".gitignore" server="furkan.com" local="132809310533113515" remote="132797244000000000" Dst="0" />
+<file name=".htaccess" server="furkan.com" local="132809310533123508" remote="132803950200000000" Dst="0" />
+<file name=".styleci.yml" server="furkan.com" local="132809310533512366" remote="132797244000000000" Dst="0" />
+<file name="README.md" server="furkan.com" local="132809310533632294" remote="132797244000000000" Dst="0" />
+<file name="artisan" server="furkan.com" local="132809310539816104" remote="132797244000000000" Dst="0" />
+<file name="composer.json" server="furkan.com" local="132809310541228091" remote="132797244000000000" Dst="0" />
+<file name="composer.lock" server="furkan.com" local="132809310543506240" remote="132803950200000000" Dst="0" />
+<file name="package.json" server="furkan.com" local="132809310559451396" remote="132797244000000000" Dst="0" />
+<file name="phpunit.xml" server="furkan.com" local="132809310559511360" remote="132797244000000000" Dst="0" />
+<file name="server.php" server="furkan.com" local="132809310570252183" remote="132797244000000000" Dst="0" />
+<file name="webpack.mix.js" server="furkan.com" local="132809329225333313" remote="132797244000000000" Dst="0" />
+</dwsync>

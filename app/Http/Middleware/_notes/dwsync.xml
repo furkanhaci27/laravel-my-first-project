@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticate.php" server="furkan.com" local="132809310536291236" remote="132797244000000000" Dst="0" />
+<file name="EncryptCookies.php" server="furkan.com" local="132809310536291236" remote="132797244000000000" Dst="0" />
+<file name="PreventRequestsDuringMaintenance.php" server="furkan.com" local="132809310536461134" remote="132797244000000000" Dst="0" />
+<file name="RedirectIfAuthenticated.php" server="furkan.com" local="132809310536541093" remote="132797244000000000" Dst="0" />
+<file name="TrimStrings.php" server="furkan.com" local="132809310537051058" remote="132797244000000000" Dst="0" />
+<file name="TrustHosts.php" server="furkan.com" local="132809310537081045" remote="132797244000000000" Dst="0" />
+<file name="TrustProxies.php" server="furkan.com" local="132809310537639963" remote="132797244000000000" Dst="0" />
+<file name="VerifyCsrfToken.php" server="furkan.com" local="132809310537649961" remote="132797244000000000" Dst="0" />
+</dwsync>
